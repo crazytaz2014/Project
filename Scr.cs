@@ -1,9 +1,9 @@
 using System;
 
 
-namespace MyFirstProject.day1.examples
+namespace MyFirstProject
 {
-    class Example1
+    class Project
     {
         static void Main()
         {
